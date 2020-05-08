@@ -3,7 +3,7 @@ margin-top:10px;
 margin-bottom:10px;
 background-color: lightgray;
 padding: 20px;
-width: 100;
+width: 100%;
 }
 
 #display{
@@ -13,3 +13,4 @@ width: 100%
 #slider{
 width: 100%;
 }
+
